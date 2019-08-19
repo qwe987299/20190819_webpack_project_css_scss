@@ -1,0 +1,12 @@
+body {
+    margin: 10px;
+    background: gainsboro;
+}
+
+.block2 {
+    background: #888;
+    color: #CCC;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
